@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1633007287 source:c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\tp parcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<string.h>
+	<chrono>
+	<ctime>
+	<iomanip>
+	"rlutil.h"
+	"Estetica.h"
+	"cargarcadena.h"
+	"Class Canciones.h"
+	"Class Interpretes.h"
+	"Funciones_Canciones.h"
+	"Funciones_Interpretes.h"
+	"Funciones_Configuracion.h"
+	"Funciones_Reportes.h"
+
+1632160377 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\tp parcial\cargarcadena.h
+
+1632921722 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\tp parcial\class canciones.h
+
+1632921722 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\tp parcial\class interpretes.h
+
+1633005714 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\tp parcial\funciones_canciones.h
+
+1632972074 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\tp parcial\funciones_interpretes.h
+
+1632972491 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\tp parcial\funciones_configuracion.h
+
+1571584339 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\tp parcial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1632971472 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\tp parcial\estetica.h
+
+1633014156 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\tp parcial\funciones_reportes.h
+
+1633560646 source:c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\tp parcial\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<clocale>
+	<string.h>
+	<ctime>
+	<iomanip>
+	"rlutil.h"
+	"Estetica.h"
+	"cargarcadena.h"
+	"Class Canciones.h"
+	"Class Interpretes.h"
+	"Funciones_Canciones.h"
+	"Funciones_Interpretes.h"
+	"Funciones_Configuracion.h"
+	"Funciones_Reportes.h"
+
+1571584339 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\tp parcial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1633466217 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\tp parcial\estetica.h
+
+1632160377 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\tp parcial\cargarcadena.h
+
+1633016254 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\tp parcial\class canciones.h
+
+1633557926 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\tp parcial\class interpretes.h
+
+1633560869 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\tp parcial\funciones_canciones.h
+
+1633557926 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\tp parcial\funciones_interpretes.h
+
+1633554367 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\tp parcial\funciones_configuracion.h
+
+1633374227 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\tp parcial\funciones_reportes.h
+
+1633613306 source:c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<clocale>
+	<string.h>
+	<ctime>
+	<iomanip>
+	"rlutil.h"
+	"Estetica.h"
+	"cargarcadena.h"
+	"Class Canciones.h"
+	"Class Interpretes.h"
+	"Funciones_Canciones.h"
+	"Funciones_Interpretes.h"
+	"Funciones_Configuracion.h"
+	"parcial_Piana_Sampietro.h"
+
+1571584339 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1633466217 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\estetica.h
+
+1632160377 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\cargarcadena.h
+
+1633016254 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\class canciones.h
+
+1633557926 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\class interpretes.h
+
+1633560869 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\funciones_canciones.h
+
+1633557926 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\funciones_interpretes.h
+
+1633554367 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\funciones_configuracion.h
+
+1633609209 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\funciones_reportes.h
+
+1633615246 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\parcial facundo piana sampietro\parcial_piana_sampietro.h
+
+1634998712 source:c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\piana_sampietro_facundo\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<clocale>
+	<string.h>
+	<ctime>
+	"rlutil.h"
+	"Estetica.h"
+	"cargarcadena.h"
+	"Class Canciones.h"
+	"Class Interpretes.h"
+	"Funciones_Canciones.h"
+	"Funciones_Interpretes.h"
+	"Funciones_Configuracion.h"
+	"parcial_Piana_Sampietro.h"
+
+1571584339 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\piana_sampietro_facundo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1633466217 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\piana_sampietro_facundo\estetica.h
+
+1632160377 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\piana_sampietro_facundo\cargarcadena.h
+
+1633016254 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\piana_sampietro_facundo\class canciones.h
+
+1633557926 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\piana_sampietro_facundo\class interpretes.h
+
+1635174494 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\piana_sampietro_facundo\funciones_canciones.h
+
+1633621273 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\piana_sampietro_facundo\funciones_interpretes.h
+
+1633554367 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\piana_sampietro_facundo\funciones_configuracion.h
+
+1634218291 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 2\laboratorio ii\piana_sampietro_facundo\parcial_piana_sampietro.h
+
